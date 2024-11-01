@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+
+.flickr-hover-mod {	width:262px;padding:0px;position:absolute;top:0px;z-index:1000;visibility:hidden; }
+.flickr-hover-mod .hd {	border-top:1px solid #CCCCCC;border-left:1px solid #CCCCCC;border-right:1px solid #CCCCCC;padding:4px 4px 0px 4px;background-color:#FFFFFF; }
+.flickr-hover-mod .bd {	border-left:1px solid #CCCCCC;border-right:1px solid #CCCCCC;padding:0px 4px;background-color:#FFFFFF; }
+.flickr-hover-mod .bd .image-rights {	padding:7px 5px 0px 0px; }
+.flickr-hover-mod .bd .button-add-to-post { text-decoration:none;border:0px; }
+.flickr-hover-mod .bd .button-add-to-post img {	margin-top:5px; }
+.flickr-hover-mod .bd .image-body {	text-align:center;width:100%; }
+.flickr-hover-mod .ft {	padding:0px; }
+.flickr-hover-mod .ft .ft-body { background-color:#FFFFFF;padding-top:10px;border-left:1px solid #CCCCCC;border-right:1px solid #CCCCCC;border-bottom:1px solid #CCCCCC; }
+.flickr-hover-mod .ft .arrow { background-image:url("../images/marker-down.gif");background-position:bottom center;background-repeat:no-repeat;margin:-1px auto 0px auto;width:24px;height:13px; }
+
